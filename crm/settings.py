@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-677&#!vb2%re1+gy6@r4(=40*d48f!#po%z9)b47az+jn(x8n^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['abba-crm.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['jinja1.herokuapp', '127.0.0.1']
 
 # Application definition
 
